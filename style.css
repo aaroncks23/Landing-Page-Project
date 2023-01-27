@@ -112,6 +112,14 @@ a {
     padding: 24px 0;
 }
 
+.call-to-action {
+    color: #F9FAF8;
+}
+
+.call-to-action-secondary {
+    color: #E5E7EB;
+}
+
 #call-to-action-button {
     border-color: #F9FAF8;
 }
